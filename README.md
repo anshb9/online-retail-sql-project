@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 Online Retail SQL Analysis Project
+# 📊 Retail Analysis Project using SQL
 
 </div>
 
